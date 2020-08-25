@@ -1,5 +1,6 @@
 # SEQUENCER
 A program that allows to create your own numbers sequence. 
+Please note that this is the official repository of the program, that means official updates on source and releases will be commited/published here.
 
 ## Introduction:
 Sequencer is a program that allows you to create your own sequence of numbers by adjusting properties for an element.
